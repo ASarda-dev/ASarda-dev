@@ -1,4 +1,4 @@
-# :arrow_right: Hello I'm Albert Sarda 👋
+# :arrow_right: Hello I'm Albert 👋
 ➡️ Hello I'm Albert
 💻 Junior Front-End developper, loving my career shift towards IT Academy </br>
 👉 Committed to IT career change
